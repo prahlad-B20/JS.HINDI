@@ -1,6 +1,6 @@
 "use strict"; // treat all js code new version
 
-alert( 3 + 3)  we are using node js ,not browser
+// alert( 3 + 3)  we are using node js ,not browser
 
 console.log(3+3) // code readibility should be high 
 
